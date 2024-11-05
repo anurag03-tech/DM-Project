@@ -35,4 +35,3 @@ To generate a requirements.txt file, navigate to the terminal and run this code 
 
 7. Fianal deploy in streamlit website create account or sign in streamlit.io and deploy final web app.
 
-## Final : how to run
